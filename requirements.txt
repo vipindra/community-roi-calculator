@@ -1,0 +1,11 @@
+# Community ROI Calculator — Python dependencies
+# All standard library except the ones below.
+# Install with: pip install -r requirements.txt
+
+# No third-party dependencies required for core functionality.
+# SQLite, csv, datetime, dataclasses, argparse are all built into Python 3.8+.
+
+# Optional: uncomment if you want to extend with plotting or Jupyter support
+# matplotlib>=3.7.0
+# pandas>=2.0.0
+# jupyter>=1.0.0
